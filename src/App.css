@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+a{
+  margin: 5px;
+}
+
+.active{
+  background-color: #61dafb;
+
+}
+.activeProduct{
+  background-color: blue;
+}
